@@ -73,7 +73,7 @@ project-root
 
 1. **Clone the repository**:
     
-    `git clone <repository-url>`
+    `git clone https://github.com/Marssepan/Little-Lemon-Exam.git`
 
     `cd <repository-folder>`
 
